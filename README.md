@@ -92,7 +92,7 @@
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifa1134&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifa1134&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
 </div>
 
 <br/>
