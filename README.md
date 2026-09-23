@@ -2,7 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=200&section=header&text=Huzaifa%20Jawed&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+STL;Computer+Vision+%2B+NLP+%2B+Generative+AI;Building+Production+RAG+Systems;Ex-AI+Intern+%40+SMIT" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+STL;Computer+Vision+%2B+NLP+%2B+Generative+AI;Building+Production+RAG+Systems;Ex-AI+Intern+%40+SMIT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=475569&center=true&vCenter=true&width=650&lines=AI+Engineer+%40+STL;Computer+Vision+%2B+NLP+%2B+Generative+AI;Building+Production+RAG+Systems;Ex-AI+Intern+%40+SMIT" alt="Typing SVG" />
+</picture>
 
 <br/>
 
@@ -86,13 +89,26 @@
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huzaifa1134&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1134&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=huzaifa1134&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huzaifa1134&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=334155&text_color=475569&icon_color=64748B&border_color=E2E8F0&count_private=true" alt="GitHub Stats" />
+</picture>
+</td>
+<td>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1134&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1134&hide_border=false&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=334155&fire=475569&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=334155&sideLabels=475569&dates=94A3B8" alt="GitHub Streak" />
+</picture>
+</td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifa1134&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifa1134&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifa1134&layout=compact&hide_border=false&bg_color=FFFFFF&title_color=334155&text_color=475569&border_color=E2E8F0&hide=Jupyter%20Notebook" alt="Top Languages" />
+</picture>
 </div>
 
 <br/>
