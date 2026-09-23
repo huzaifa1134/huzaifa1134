@@ -86,17 +86,13 @@
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=huzaifa1134&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huzaifa1134&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1134&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa1134&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifa1134&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifa1134&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
@@ -109,7 +105,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:huzaifasakaria@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E2E8F0)](https://huzaifajawed.folify.me/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=huzaifa1134&style=for-the-badge&color=0D1117)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=huzaifa1134.github-readme&left_color=%230D1117&right_color=%230D1117&left_text=PROFILE%20VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0F172A&height=100&section=footer" width="100%"/>
 
